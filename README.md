@@ -1,12 +1,13 @@
 ## 📁 Project Structure
 aws-cli-s3-setup/
-├── screenshots/ # All AWS CLI operation screenshots
-│ ├── aws-version.png # aws --version output
-│ ├── aws-configure.png # aws configure setup
-│ ├── bucket-create.png # Bucket creation proof
-│ └── ... # Other screenshots
-├── README.md # This documentation
-└── .gitignore # Ignored files
+├── screenshots/               # All AWS CLI operation screenshots
+│   ├── aws-version.png        # aws --version output
+│   ├── aws-configure.png      # aws configure setup
+│   ├── bucket-create.png      # Bucket creation proof
+│   └── ...                    # Other screenshots
+├── README.md                  # This documentation
+└── .gitignore                 # Ignored files
+
 
 # 🚀 AWS CLI & S3 Bucket Guide
 
