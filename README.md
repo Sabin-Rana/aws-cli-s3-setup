@@ -1,4 +1,4 @@
-## 📁 Project Structure
+## Project Structure
 aws-cli-s3-setup/
 - screenshots/              # All AWS CLI operation screenshots
   - aws-version.png         # aws --version output
@@ -7,12 +7,12 @@ aws-cli-s3-setup/
   - ...                     # Other screenshots
 - README.md                 # This documentation
 
-# 🚀 AWS CLI & S3 Bucket Guide
+# AWS CLI & S3 Bucket Guide
 
 ![AWS CLI Demo](https://img.icons8.com/color/96/000000/amazon-web-services.png)  
 *A step-by-step guide to mastering AWS CLI for S3 operations*
 
-## 🔧 Setup AWS CLI
+## Setup AWS CLI
 
 ### 1. Install AWS CLI
 ```bash
@@ -31,7 +31,7 @@ aws --version
 ```
 ![Version Check](https://github.com/Sabin-Rana/aws-cli-s3-setup/blob/main/Screenshots/AWS%20CLI%20Version.PNG)
 
-## 🔐 Configure AWS
+## Configure AWS
 
 ### 3. Set Up Credentials
 ```bash
@@ -45,7 +45,7 @@ Enter:
 
 ![AWS Configuration](https://github.com/Sabin-Rana/aws-cli-s3-setup/blob/main/Screenshots/aws-configure.PNG)
 
-## 📦 S3 Bucket Operations
+## S3 Bucket Operations
 
 ### 4. Create Bucket
 ```bash
@@ -81,8 +81,7 @@ aws s3 ls
 The following screenshot shows the successful deletion of the epicreads-aws-cli-bucket in the AWS Console:
 ![Bucket Deleted](https://github.com/Sabin-Rana/aws-cli-s3-setup/blob/main/Screenshots/bucket-delete.PNG)
 
-## 🎉 Congratulations!
-You've successfully:
+## Completed!
 - Installed AWS CLI
 - Configured credentials
 - Created/managed an S3 bucket
@@ -90,8 +89,3 @@ You've successfully:
 
 ---
 
-💡 **Pro Tip**: Add these badges to your README by pasting this at the top:
-```markdown
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![CLI](https://img.shields.io/badge/CLI-Expert-green)](https://aws.amazon.com/cli/)
-```
